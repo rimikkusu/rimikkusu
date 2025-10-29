@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/some-real-file.gif" alt="Cat typing at computer">
+  <img src="https://tenor.com/view/cat-computer-typing-busy-gif-15481689" alt="Cat typing at computer">
 </p>
 
 <h1 align="center">Hi 👋, I'm rimikkusu</h1>
