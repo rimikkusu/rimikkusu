@@ -18,21 +18,13 @@
 
 ---
 
-### 📊 Profile Stats
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kkusu&label=Profile%20views&color=0e75b6&style=flat" alt="kkusu views" />
-</p>
-
----
-
 ### 🛠️ Tech & Tools I Use
 
 - **Unity Engine**
 - **C#**
 - **Git & GitHub**
-- Blender (basic)
-- Visual Studio / VS Code
+- FL Studio (basic)
+- Visual Studio
 
 ---
 
@@ -41,16 +33,8 @@
 I’m working on a **Unity horror game** with a focus on:
 - Atmosphere  
 - Sound design  
-- Player movement  
-- Enemy AI  
+- Player movement 
 - Environmental storytelling  
 
 More details & screenshots coming soon...
 
----
-
-### ⭐ Thanks for visiting my profile!
-
-<p align="center">
-  <img src="assets/cat.gif" alt="Cat typing" width="200">
-</p>
