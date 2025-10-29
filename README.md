@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/cat.gif" alt="Cat typing" width="300">
+  <img src="https://i.imgur.com/abcdefg.gif" alt="Cat typing" width="300">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm rimikkusu</h1>
 <h3 align="center">Game Developer • Unity Enthusiast • C# Learner</h3>
