@@ -1,5 +1,6 @@
 
 <a target="_blank" align="center">
+![Cat typing at computer](https://media.tenor.com/images/…/cat-computer-typing-busy.gif)
   
 <h1 align="center">Hi 👋, I'm rimikkusu</h1>
 
