@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Tech & Tools I Use
+### Tech & Tools I Use
 
 - **Unity Engine**
 - **C#**
@@ -28,7 +28,7 @@
 
 ---
 
-### 🎮 Current Project
+### Current Project
 
 I’m working on a **Unity horror game**
 and some 2D prototypes
