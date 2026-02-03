@@ -3,18 +3,18 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm rimikkusu</h1>
-<h3 align="center">Game Developer • Unity Enthusiast • C# Learner</h3>
+<h1 align="center">Hi, rimikkusu here </h1>
+<h3 align="center">Trying to be game Developer • Unity Enthusiast • C# Learner</h3>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 I’m currently working on: **A Unity Horror Game**
-- 🌱 I’m currently learning: **C# & Unity**
-- 👯 I’m looking to collaborate on: **Game Development Projects**
-- 💬 Ask me about: **PC Hardware**
-- 📫 How to reach me: **rimikkusuu@gmail.com**
+- I’m currently working on: **A Unity Horror Game**
+- I’m currently learning: **C# & Unity**
+- I’m looking to collaborate on: **Game Development Projects**
+- Ask me about: **PC Hardware**
+- How to reach me: **rimikkusuu@gmail.com**
 
 ---
 
@@ -30,11 +30,8 @@
 
 ### 🎮 Current Project
 
-I’m working on a **Unity horror game** with a focus on:
-- Atmosphere  
-- Sound design  
-- Player movement 
-- Environmental storytelling  
+I’m working on a **Unity horror game**
+and some 2D prototypes
 
-More details & screenshots coming soon...
+More details & screenshots coming soon
 
