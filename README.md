@@ -10,7 +10,7 @@
 
 ### About Me
 
-- I’m currently working on: **A Unity Horror Game**
+- I’m currently working on: **Games**
 - I’m currently learning: **C# & Unity**
 - I’m looking to collaborate on: **Game Development Projects**
 - Ask me about: **PC Hardware**
@@ -23,14 +23,14 @@
 - **Unity Engine**
 - **C#**
 - **Git & GitHub**
-- FL Studio (basic)
+- FL Studio (basics)
 - Visual Studio
 
 ---
 
 ### Current Project
 
-I’m working on a **Unity horror game**
+I’m working on Games
 and some 2D prototypes
 
 More details & screenshots coming soon
