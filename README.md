@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi, rimikkusu here </h1>
+<h1 align="center">Helloo, rimikkusu here </h1>
 <h3 align="center">Trying to be game Developer • Unity Enthusiast • C# Learner</h3>
 
 ---
