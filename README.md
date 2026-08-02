@@ -15,6 +15,7 @@
 - I’m looking to collaborate on: **Game Development Projects**
 - Ask me about: **PC Hardware**
 - How to reach me: **rimikkusuu@gmail.com**
+- My itch.io page: https://rimi-kkusu.itch.io/
 
 ---
 
@@ -23,8 +24,10 @@
 - **Unity Engine**
 - **C#**
 - **Git & GitHub**
-- FL Studio (basics)
-- Visual Studio
+- **FL Studio**
+- **Visual Studio**
+- **blender**
+- **Krita & Photoshop**
 
 ---
 
